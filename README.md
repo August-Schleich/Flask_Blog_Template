@@ -4,7 +4,9 @@ This is a open source streamlined blogging website template. Built with Flask, F
 
 <h3>Setup Instructions</h3>
 
-first you will need to clone the repository to your local machine and virtual enviorontment and then download required packages etc.
+
+First you will need to clone the repository to your local machine and setup your virtual enviorontment, then download required packages etc.
+
 - first setup you virtual env in your development evironment by running: virtualenv flaskblogenv
 - After you environment is created activate it by running source flaskblogenv/bin/activate
 - When env is actvated you can now install the required packages etc by running: pip install -r required.txt
