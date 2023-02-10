@@ -1,5 +1,5 @@
 # Flask_Blog_Template
-This is a open source streamlined blogging website template. Built with Flask, Flask-Bootstrap and an SQL Database. It can be used to quickly put up a personel blogging platform or personel website.
+This is a open source streamlined blogging website template. Built with Flask, Flask-Bootstrap, JavaScript and an SQL Database . It can be used to quickly put up a personel blogging platform or personel website.
 
 A bootstrap template was used for the initial design and a Flask backend was added to integrate a database, authentication and article creation functionality.
 
