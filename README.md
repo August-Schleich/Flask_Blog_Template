@@ -17,3 +17,7 @@ first you will need to clone the repository to your local machine, create a virt
 - Now that requirements are downloaded you can run main.py locally and check out your template!
 - Site can be customized to your liking with little trouble by updating titles, headers, background images etc. 
 
+Enjoy!
+
+Please if yuou find any problems with this code or process I'm open to contributions to this project!
+
