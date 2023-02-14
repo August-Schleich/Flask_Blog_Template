@@ -19,5 +19,5 @@ first you will need to clone the repository to your local machine, create a virt
 
 Enjoy!
 
-Please if yuou find any problems with this code or process I'm open to contributions to this project!
+Please if you find any problems with this code or process I'm open to contributions to this project!
 
