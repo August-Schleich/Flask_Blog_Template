@@ -13,7 +13,7 @@ first you will need to clone the repository to your local machine, create a virt
         -[ Github clone instructions.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - setup you virtual env in your development evironment by running: virtualenv flaskblogenv (or your prefered virutal environment setup)
 - After you environment is created activate it by running: source flaskblogenv/bin/activate
-- When env is actvated you can now install the required packages etc by running: pip install -r required.txt
+- When env is actvated you can now install the required packages by running: pip install -r required.txt
 - Now that requirements are downloaded you can run main.py locally and check out your template!
 - Site can be customized to your liking with little trouble by updating titles, headers, background images etc. 
 
